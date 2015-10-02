@@ -1,6 +1,8 @@
 name: GlobalMarket
 main: me.dasfaust.gm.Core
 version: '@version@'
+author: [Dafaust]
+description: A buy/sell plugin
 permissions:
    globalmarket.use:
        default: true
